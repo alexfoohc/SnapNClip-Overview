@@ -1,6 +1,6 @@
 # SnapNClip
 
-![Screenshot of SnapNClip](Overview2.png)
+![Screenshot of SnapNClip](SnapNClip-2.png)
 A screenshot tool that can help you for Mac.
 
 
@@ -24,10 +24,10 @@ As I was constantly taking screenshots, my desktop usually ended up pretty messy
 
 That's it! 
 
-![screenshot of SnapNClip](Selection.png)
-![screenshot of SnapNClip](Save.png)
+![screenshot of SnapNClip](SnapNClip-2-Save.png)
+![screenshot of SnapNClip](SnapNClip-2-Alert.png)
 
-More features will be coming in the future! :
+More features will be coming in the future!
 
 ### Contact
 Do you have any feedback or questions? Send me an email to: alex.hernandezc.21@gmail.com
